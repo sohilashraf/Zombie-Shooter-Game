@@ -11,11 +11,14 @@ This game is a top down zombie shooter survival game. The main object of this ga
   * You can find energy drinks at the bottom left of the game map (One energy drink appears every few seconds)
 
 
-![Screenshot 2024-07-10 065537](https://github.com/sohilashraf/Zombie-Shooter-Game/assets/155327820/a5d6e0fb-3b56-4fa0-a207-6f79d19d5a80)
-![Screenshot 2024-07-10 071128](https://github.com/sohilashraf/Zombie-Shooter-Game/assets/155327820/83a809c9-a5a9-4c59-9593-c972c3d29b55)
-![Screenshot 2024-07-10 065735](https://github.com/sohilashraf/Zombie-Shooter-Game/assets/155327820/1c22cf3f-b05f-4813-8460-0dfc422f90b0)
-![Screenshot 2024-07-10 065640](https://github.com/sohilashraf/Zombie-Shooter-Game/assets/155327820/1147f555-9c1e-4923-96bf-553faef5e9d7)
+![Screenshot 2024-07-10 065508](https://github.com/sohilashraf/Zombie-Shooter-Game/assets/155327820/b6a96674-9ec3-44ff-b41b-4e36e6501724)
+![Screenshot 2024-07-10 065537](https://github.com/sohilashraf/Zombie-Shooter-Game/assets/155327820/b384952a-8a94-40a3-8a85-6cac50deed0f)
+![Screenshot 2024-07-10 071128](https://github.com/sohilashraf/Zombie-Shooter-Game/assets/155327820/5487dc3a-ef9f-4932-bd8e-1fd4c5ac1140)
+![Screenshot 2024-07-10 065735](https://github.com/sohilashraf/Zombie-Shooter-Game/assets/155327820/0c280685-bf6c-480d-acf8-ffb13ae0d0b6)
+![Screenshot 2024-07-10 065640](https://github.com/sohilashraf/Zombie-Shooter-Game/assets/155327820/8946f699-6069-46e9-a791-e2356b95cf0c)
 
 
-https://github.com/sohilashraf/Zombie-Shooter-Game/assets/155327820/8b291d78-e427-467f-a81d-b0d2470dceab
+
+https://github.com/sohilashraf/Zombie-Shooter-Game/assets/155327820/20510975-0fcc-4d69-a728-60c83c9a6e24
+
 
